@@ -1,5 +1,4 @@
 name = "nanobanana-worker"        # 随便起个名字，Cloudflare 内部用
 main = "worker.js"                # 告诉 Wrangler：入口文件就是这个
 compatibility_date = "2025-11-27" # 用今天或更早的日期都可以
-[vars]
-API_MASTER_KEY = "panyuan"
+
